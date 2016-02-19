@@ -1,0 +1,3 @@
+[submodule "ngxpagespeed"]
+	path = ngxpagespeed
+	url = git@github.com:dgageot/ngxpagespeed.git
